@@ -14,14 +14,7 @@
 package org.eclipse.jdt.internal.jarinjarloader;
 
 
-/**
- * Constants used in the Jar-in-Jar loader.
- *
- * Some of these are duplicated in JIJConstants in the source for the Runnable Jar File Export Wizard:
- * {@link org.eclipse.jdt.internal.ui.jarpackagerfat}.
- *
- * @since 3.6
- */
+
 final class JIJConstants {
 
     static final String REDIRECTED_CLASS_PATH_MANIFEST_NAME  = "Class-Path";  //$NON-NLS-1$
